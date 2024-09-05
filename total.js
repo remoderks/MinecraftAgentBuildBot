@@ -155,7 +155,6 @@ player.onChat("run", function () {
     agent.setSlot(1);
     agent.setItem(GRASS, 64, 1);
     agent.turn(LEFT_TURN);
-    agent.turn(LEFT_TURN)
     agent.move(FORWARD, 1);
 })
 
